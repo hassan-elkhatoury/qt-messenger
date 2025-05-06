@@ -1,0 +1,33 @@
+# Qt-specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+*.o
+*.Debug
+*.Release
+debug/
+release/
+
+# IDE-specific
+.qmake.cache
+.qmake.stash
+*.autosave
+
+# Compiled binaries
+QtMessengerClient
+QtMessengerServer
+
+# Database files
+*.db
+*.sqlite
+
+# OS-specific
+.DS_Store
+.directory
+*.swp
+*~

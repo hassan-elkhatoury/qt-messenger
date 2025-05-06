@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/send.png</file>
+        <file>resources/icons/attachment.png</file>
+        <file>resources/icons/profile.png</file>
+        <file>resources/icons/settings.png</file>
+        <file>resources/icons/more.png</file>
+        <file>resources/icons/back.png</file>
+        <file>resources/icons/theme.png</file>
+	<file>resources/icons/check.png</file>
+        <file>resources/light.qss</file>
+        <file>resources/dark.qss</file>
+        <file>resources/icons/app_logo.png</file>
+    </qresource>
+</RCC>
