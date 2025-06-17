@@ -109,7 +109,7 @@ brew install qt cmake
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/qt-messenger.git
+https://github.com/hassan-elkhatoury/qt-messenger.git
 cd qt-messenger
 ```
 
